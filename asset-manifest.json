@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Crud-table/static/js/main.3e53b2ee.chunk.js",
+    "main.js.map": "/Crud-table/static/js/main.3e53b2ee.chunk.js.map",
+    "runtime-main.js": "/Crud-table/static/js/runtime-main.dee458be.js",
+    "runtime-main.js.map": "/Crud-table/static/js/runtime-main.dee458be.js.map",
+    "static/js/2.8f6c4cef.chunk.js": "/Crud-table/static/js/2.8f6c4cef.chunk.js",
+    "static/js/2.8f6c4cef.chunk.js.map": "/Crud-table/static/js/2.8f6c4cef.chunk.js.map",
+    "index.html": "/Crud-table/index.html",
+    "precache-manifest.67d3074e066ed47162e9f3e63a65371d.js": "/Crud-table/precache-manifest.67d3074e066ed47162e9f3e63a65371d.js",
+    "service-worker.js": "/Crud-table/service-worker.js",
+    "static/js/2.8f6c4cef.chunk.js.LICENSE.txt": "/Crud-table/static/js/2.8f6c4cef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dee458be.js",
+    "static/js/2.8f6c4cef.chunk.js",
+    "static/js/main.3e53b2ee.chunk.js"
+  ]
+}
